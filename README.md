@@ -10,7 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hosseinbanaei&label=profile+views&style=flat-square&color=8b5cff&labelColor=10132a" alt="profile views" />
 <img src="https://img.shields.io/badge/Tehran-Iran-0a0c16?style=flat-square&logo=googlemaps&logoColor=00e5ff&labelColor=10132a&color=232845" alt="Tehran, Iran" />
 <img src="https://img.shields.io/badge/open_to-work-b6ff3b?style=flat-square&labelColor=10132a" alt="open to work" />
 
@@ -36,12 +35,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hosseinbanaei&show_icons=true&hide_border=true&count_private=true&title_color=00e5ff&text_color=e6e9f5&icon_color=ff3d9a&bg_color=10132a&ring_color=8b5cff" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinbanaei&layout=compact&hide_border=true&title_color=00e5ff&text_color=e6e9f5&bg_color=10132a" alt="Top languages" />
+<table><tr>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=hosseinbanaei&show_icons=true&hide_border=true&count_private=true&title_color=00e5ff&text_color=e6e9f5&icon_color=ff3d9a&bg_color=10132a&ring_color=8b5cff" alt="GitHub stats" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinbanaei&layout=compact&hide_border=true&title_color=00e5ff&text_color=e6e9f5&bg_color=10132a" alt="Top languages" /></td>
+</tr></table>
 
-<img src="https://streak-stats.demolab.com?user=hosseinbanaei&hide_border=true&background=10132A&ring=FF3D9A&fire=B6FF3B&currStreakLabel=00E5FF&currStreakNum=E6E9F5&sideLabels=8B5CFF&sideNums=E6E9F5&dates=7F86A8&border=232845" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinbanaei&bg_color=0a0c16&color=00e5ff&line=8b5cff&point=ff3d9a&area=true&area_color=8b5cff&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+<img width="100%" src="https://streak-stats.demolab.com?user=hosseinbanaei&hide_border=true&background=10132A&ring=FF3D9A&fire=B6FF3B&currStreakLabel=00E5FF&currStreakNum=E6E9F5&sideLabels=8B5CFF&sideNums=E6E9F5&dates=7F86A8&border=232845" alt="GitHub streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosseinbanaei/hosseinbanaei/output/github-snake-dark.svg" />
