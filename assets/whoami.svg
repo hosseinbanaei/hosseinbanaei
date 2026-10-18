@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="About Hossein Banaei">
+<defs>
+  <linearGradient id="wAurora" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#8b5cff;#ff3d9a;#00e5ff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="0.5" stop-color="#8b5cff"><animate attributeName="stop-color" values="#8b5cff;#ff3d9a;#00e5ff;#8b5cff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#ff3d9a"><animate attributeName="stop-color" values="#ff3d9a;#00e5ff;#8b5cff;#ff3d9a" dur="8s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <linearGradient id="wStatic" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"/><stop offset="0.55" stop-color="#8b5cff"/><stop offset="1" stop-color="#ff3d9a"/>
+  </linearGradient>
+</defs>
+<rect x="4" y="4" width="1192" height="392" rx="16" fill="#10132a" stroke="url(#wAurora)" stroke-width="1.6"/>
+<rect x="4" y="4" width="1192" height="40" rx="16" fill="#0f1224"/><rect x="4" y="26" width="1192" height="18" fill="#0f1224"/>
+<circle cx="32" cy="24" r="6" fill="#ff5f56"/><circle cx="52" cy="24" r="6" fill="#ffbd2e"/><circle cx="72" cy="24" r="6" fill="#27c93f"/>
+<text x="600.0" y="29" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#7f86a8">about.md</text>
+<text x="56" y="96" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#b6ff3b">$ cat about.md</text><text x="56" y="146" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="24" font-weight="800" fill="#ff3d9a"># Hossein Banaei</text><text x="56" y="186" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">Backend developer who lives in Go and ships end to end.</text><text x="56" y="222" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">APIs, queues, live tracking, payments, monitoring and the frontend that sits on top.</text><text x="56" y="272" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">I write code by hand AND vibe-code with AI. Both are tools; I pick the right one.</text><text x="56" y="308" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">A year in QA taught me to think about failure first: edge cases, retries, bad input.</text><text x="56" y="344" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">Now: building production-minded Go services, one clean layer at a time.</text><text x="56" y="380" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" font-weight="400" fill="#e6e9f5">Always leveling up, in code and in life.</text>
+<rect x="56" y="404" width="11" height="20" fill="#00e5ff">
+  <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>

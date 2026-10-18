@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Closing terminal prompt">
+<defs>
+  <linearGradient id="fAurora" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#8b5cff;#ff3d9a;#00e5ff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="0.5" stop-color="#8b5cff"><animate attributeName="stop-color" values="#8b5cff;#ff3d9a;#00e5ff;#8b5cff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#ff3d9a"><animate attributeName="stop-color" values="#ff3d9a;#00e5ff;#8b5cff;#ff3d9a" dur="8s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <linearGradient id="fStatic" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"/><stop offset="0.55" stop-color="#8b5cff"/><stop offset="1" stop-color="#ff3d9a"/>
+  </linearGradient>
+
+  <clipPath id="fc"><rect x="4" y="4" width="1192" height="192" rx="16"/></clipPath>
+</defs>
+<rect x="4" y="4" width="1192" height="192" rx="16" fill="#10132a" stroke="url(#fAurora)" stroke-width="1.6"/>
+<g clip-path="url(#fc)">
+  <path d="M0 178 C 200 160, 400 195, 600 178 S 1000 160, 1200 178 V200 H0Z" fill="#8b5cff" opacity="0.12">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 178 C 200 160, 400 195, 600 178 S 1000 160, 1200 178 V200 H0Z;M0 178 C 200 195, 400 160, 600 178 S 1000 195, 1200 178 V200 H0Z;M0 178 C 200 160, 400 195, 600 178 S 1000 160, 1200 178 V200 H0Z"/>
+  </path>
+  <path d="M0 186 C 250 172, 450 198, 700 186 S 1050 174, 1200 186 V200 H0Z" fill="#00e5ff" opacity="0.10">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 186 C 250 172, 450 198, 700 186 S 1050 174, 1200 186 V200 H0Z;M0 186 C 250 198, 450 172, 700 186 S 1050 198, 1200 186 V200 H0Z;M0 186 C 250 172, 450 198, 700 186 S 1050 174, 1200 186 V200 H0Z"/>
+  </path>
+</g>
+<text x="40" y="62" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" fill="#b6ff3b">hossein@tehran<tspan fill="#7f86a8">:</tspan><tspan fill="#00e5ff">~</tspan><tspan fill="#7f86a8">$ </tspan><tspan fill="#e6e9f5">fortune</tspan></text>
+<text x="40" y="106" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="26" font-weight="800" fill="url(#fAurora)">"Even monkeys fall from trees."</text>
+<text x="40" y="142" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="19" fill="#b6ff3b">hossein@tehran<tspan fill="#7f86a8">:</tspan><tspan fill="#00e5ff">~</tspan><tspan fill="#7f86a8">$ </tspan><tspan fill="#e6e9f5">exit 0</tspan></text>
+<rect x="322" y="124" width="11" height="22" fill="#00e5ff">
+  <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</svg>

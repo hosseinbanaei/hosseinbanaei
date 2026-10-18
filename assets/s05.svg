@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="05 git log --stat">
+<defs>
+  <linearGradient id="sAurora" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#8b5cff;#ff3d9a;#00e5ff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="0.5" stop-color="#8b5cff"><animate attributeName="stop-color" values="#8b5cff;#ff3d9a;#00e5ff;#8b5cff" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#ff3d9a"><animate attributeName="stop-color" values="#ff3d9a;#00e5ff;#8b5cff;#ff3d9a" dur="8s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <linearGradient id="sStatic" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00e5ff"/><stop offset="0.55" stop-color="#8b5cff"/><stop offset="1" stop-color="#ff3d9a"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="64" fill="none"/>
+<text x="8" y="42" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="30" font-weight="800" fill="url(#sAurora)">05</text>
+<text x="66" y="42" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="26" font-weight="700" fill="#e6e9f5"><tspan fill="#7f86a8">$ </tspan>git log --stat</text>
+<text x="1192" y="40" text-anchor="end" font-family="'JetBrains Mono','SF Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="15" fill="#7f86a8">live numbers from GitHub</text>
+<line x1="8" y1="56" x2="1192" y2="56" stroke="#232845" stroke-width="2"/>
+<line x1="8" y1="56" x2="260" y2="56" stroke="url(#sAurora)" stroke-width="2">
+  <animate attributeName="x2" values="120;1192;120" dur="7s" repeatCount="indefinite"/>
+</line>
+</svg>
